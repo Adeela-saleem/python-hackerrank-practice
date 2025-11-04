@@ -17,13 +17,10 @@ The goal is to stay consistent, improve logic-building skills, and strengthen Py
 
 | Day | Problem Name | Link | Difficulty | Concept | Status |
 |-----|---------------|------|-------------|----------|---------|
-| 1 | Loops | [View Problem](https://www.hackerrank.com/challenges/python-loops/problem) | Easy | For loops, range(), exponentiation | ✅ |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-
+| 1   | Loops               | [View Problem](https://www.hackerrank.com/challenges/python-loops/problem)        | Easy       | For loops, range(), exponentiation           | ✅      |
+| 2   | List Comprehensions | [View Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | Easy       | Nested loops, conditional list comprehension | ✅      |
 
 ---
-
 
 ## 💬 Notes & Learnings
 > "Practice one problem a day — progress over perfection."
