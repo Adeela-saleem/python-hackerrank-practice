@@ -17,8 +17,10 @@ The goal is to stay consistent, improve logic-building skills, and strengthen Py
 
 | Day | Problem Name | Link | Difficulty | Concept | Status |
 |-----|---------------|------|-------------|----------|---------|
-| 1   | Loops               | [View Problem](https://www.hackerrank.com/challenges/python-loops/problem)        | Easy       | For loops, range(), exponentiation           | ✅      |
-| 2   | List Comprehensions | [View Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | Easy       | Nested loops, conditional list comprehension | ✅      |
+| 1   | Loops | [View Problem](https://www.hackerrank.com/challenges/python-loops/problem) | Easy | For loops, range(), exponentiation | ✅ |
+| 2   | List Comprehensions | [View Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | Easy | Nested loops, conditional list comprehension | ✅ |
+| 3   | Find the Runner-Up Score! | [View Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | Easy | Lists, sorting, removing duplicates | ✅ |
+| 4   | Nested Lists | [View Problem](https://www.hackerrank.com/challenges/nested-list/problem) | Easy | Nested lists, sorting, conditional filtering | ✅ |
 
 ---
 
@@ -27,6 +29,8 @@ The goal is to stay consistent, improve logic-building skills, and strengthen Py
 
 Some small takeaways from my daily coding journey:
 - Learning to write cleaner, shorter Python code.
+- Understanding nested data structures.
+- Using list comprehensions and sorting techniques confidently.
 - Improving speed and confidence with problem solving.
 
 ---
@@ -40,5 +44,4 @@ Some small takeaways from my daily coding journey:
 ### ✨ Author
 **Adeela Saleem**  
 🎓 Computer Science Student | 💻 Python & ML Enthusiast  
-🌐 [GitHub Profile](https://github.com/Adeela-saleem)  
-# python-hackerrank-practice
+🌐 [GitHub Profile](https://github.com/Adeela-saleem)
